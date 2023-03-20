@@ -9,5 +9,9 @@ This application is a demo of how routes are used in insomnia to manage a databa
 3. Run 'node server.js' to run the application on port 3001.
 4. Open insomnia and play around with the routes.
 
+## Usage
+![image](https://user-images.githubusercontent.com/111784726/226237465-12123682-0b0b-4f15-b208-3cadbec107b2.png)
+
+
 ## Links
 Demo Link: https://drive.google.com/file/d/1myVeEaKNR3giFr5kQiDRWbmbYx0YEpZR/view
